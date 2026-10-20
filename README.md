@@ -1,4 +1,8 @@
-# Back To Clay
+# Back To Clay | Minecraft Mod
+
+## What it does
+
+Place a Clay Block(minecraft:clay) inside of a 2x2 or a 3x3 Crafting Grid. The result will be 4 Clay Balls(minecraft:clay_ball)
 
 ## Setup
 
